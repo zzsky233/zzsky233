@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzsky233&hide=contribs,prs&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233)
 
 <!--
 **zzsky233/zzsky233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
