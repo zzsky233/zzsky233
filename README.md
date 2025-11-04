@@ -1,16 +1,18 @@
 ## Hi I'm ZZSKY 👋
 
-### 📌 基本信息
-- 💡 兴趣方向：
-- 🌱 最近在学：`Golang、Android、SpringBoot、Pytorch`
-- 💬 联系方式：邮箱 `caoye6233@gmail.com`
+> A 2023 undergraduate student majoring in Computer Science, with experience in embedded systems, STM32, mobile development, web development, and deep learning. Currently engaged in research on graph neural networks, recommendation systems, and intelligent optimization, and aspires to explore artificial intelligence in the future.
+
+### 🧠 About Me
+- 💡 Interested in: `Deep learning, computer vision, backend development, machine learning`
+- 🌱 Currently learning：`Golang、Android、SpringBoot、Pytorch`
+- 💬 Reach me via：`caoye6233@gmail.com`
 - 🔗 个人博客 / 简历：`https://your-blog-or-resume`
 
 
 
-### 🛠 技术栈
+### 🛠 Tech Stack
 
-#### 💻 编程语言
+#### 💻 Programming Languages
 ![C](https://img.shields.io/badge/-C-05122A?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
@@ -18,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-#### 🧩 框架与工具
+#### 🧩 Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
@@ -32,8 +34,9 @@
 
 ### 🌈 兴趣方向
 - 💻 **Golang 后端开发** 与系统设计  
-- 🧠 **深度学习与 PyTorch 框架应用**  
+- 🧠 **深度学习与 PyTorch 框架应用**
 - 🌐 **Vue + Spring Boot 全栈开发**
+- ⚙️ **物联网嵌入式系统**
 
 ---
 
