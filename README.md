@@ -17,15 +17,9 @@
 
 ### 📊 GitHub 统计
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=radical" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=compact&theme=radical" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=transparent" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=compact&theme=transparent" />
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=donut&theme=transparent)](https://github.com/zzsky233/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzsky233&theme=dracula)](https://github.com/zzsky233/github-readme-activity-graph)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
