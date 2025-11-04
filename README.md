@@ -1,6 +1,7 @@
 ## Hi I'm ZZSKY 👋
 
 ### 📌 基本信息
+- 💡 兴趣方向：
 - 🌱 最近在学：`Golang、Android、SpringBoot、Pytorch`
 - 💬 联系方式：邮箱 `caoye6233@gmail.com`
 - 🔗 个人博客 / 简历：`https://your-blog-or-resume`
@@ -26,6 +27,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+
+---
+
+### 🌈 兴趣方向
+- 💻 **Golang 后端开发** 与系统设计  
+- 🧠 **深度学习与 PyTorch 框架应用**  
+- 🌐 **Vue + Spring Boot 全栈开发**
 
 ---
 
