@@ -1,8 +1,7 @@
 ## Hi I'm ZZSKY 👋
 
 ### 📌 基本信息
-- 🔭 目前在做：`在这里写你当前的项目或研究方向`
-- 🌱 最近在学：`Golang、Android、SpringBoot、`
+- 🌱 最近在学：`Golang、Android、SpringBoot、Pytorch`
 - 💬 联系方式：邮箱 `caoye6233@gmail.com`
 - 🔗 个人博客 / 简历：`https://your-blog-or-resume`
 
@@ -18,8 +17,8 @@
 
 ### 📊 GitHub 统计
 <p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=radical" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=compact&theme=radical" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=transparent)
