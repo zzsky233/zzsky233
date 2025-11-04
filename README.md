@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 <!--
 **zzsky233/zzsky233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
