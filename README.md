@@ -6,7 +6,7 @@
 - 💡 Interested in: `Deep learning, computer vision, backend development, machine learning`
 - 🌱 Currently learning：`Golang、Android、SpringBoot、Pytorch`
 - 💬 Reach me via：`caoye6233@gmail.com`
-- 🔗 个人博客 / 简历：`https://your-blog-or-resume`
+- 💬 Personal Motto：*Keep coding, keep growing. We all have a bright future.*
 
 
 
@@ -32,15 +32,15 @@
 
 ---
 
-### 🌈 兴趣方向
-- 💻 **Golang 后端开发** 与系统设计  
-- 🧠 **深度学习与 PyTorch 框架应用**
-- 🌐 **Vue + Spring Boot 全栈开发**
-- ⚙️ **物联网嵌入式系统**
+### 🌈 Currently Exploring
+- 💻 **Backend Development with Golang** and System Architecture  
+- 🧠 **Deep Learning and PyTorch Framework Applications**
+- 🌐 **Full-Stack Development with Vue and Spring Boot**
+- ⚙️ **IoT and Embedded Systems Development**
 
 ---
 
-### 📊 GitHub 统计
+### 📊 GitHub Stats
 <p align="left">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=transparent" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=compact&theme=transparent" />
