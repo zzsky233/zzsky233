@@ -4,6 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=donut&theme=transparent)](https://github.com/zzsky233/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzsky233&theme=dracula)](https://github.com/zzsky233/github-readme-activity-graph)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **zzsky233/zzsky233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
