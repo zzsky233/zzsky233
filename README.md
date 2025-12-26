@@ -39,7 +39,7 @@
 - ⚙️ **IoT and Embedded Systems Development**
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 <p align="left">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zzsky233&show_icons=true&theme=transparent" />
@@ -48,6 +48,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep coding, keep growing. We all have a bright future.)](https://git.io/typing-svg)
 
+-->
 <!--
 **zzsky233/zzsky233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
