@@ -46,7 +46,7 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzsky233&layout=compact&theme=transparent" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Keep coding;Keep growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=123;456)](https://git.io/typing-svg)
 
 <!--
 **zzsky233/zzsky233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
