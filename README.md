@@ -1,10 +1,10 @@
 ## Hi I'm ZZSKY 👋
 
-> A 2023 undergraduate student majoring in Computer Science, with experience in embedded systems, STM32, mobile development, web development, and deep learning. Currently engaged in research on graph neural networks, recommendation systems, and intelligent optimization, and aspires to explore artificial intelligence in the future.
+> A 2023 undergraduate student majoring in Computer Science, with experience in embedded systems, STM32, mobile development, web development, and deep learning. Currently engaged in research on large language models, recommendation systems, and diffusion model, and aspires to explore artificial intelligence in the future.
 
 ### 🧠 About Me
-- 💡 Interested in: `Deep learning, large language models, backend development, machine learning`
-- 🌱 Currently learning：`Golang、Android、SpringBoot、Pytorch、Langchain`
+- 💡 Interested in: `Deep learning, large language models, backend development, diffusion model`
+- 🌱 Currently learning：`Pytorch, Langchain, Golang, Android, SpringBoot`
 - 💬 Reach me via：`caoye6233@gmail.com`
 - 💬 Personal Motto：*Keep coding, keep growing. We all have a bright future.*
 
