@@ -1,44 +1,44 @@
-## Hi I'm ZZSKY 👋
+# Hi I'm ZZSKY 👋
 
-> A 2023 undergraduate student majoring in Computer Science, with experience in embedded systems, STM32, mobile development, web development, and deep learning. Currently engaged in research on large language models, recommendation systems, and diffusion model, and aspires to explore artificial intelligence in the future.
+> Computer Science undergraduate at Hunan University of Science and Technology, with a growing focus on artificial intelligence research and development.
 
-### 🧠 About Me
-- 💡 Interested in: `Deep learning, large language models, backend development, diffusion model`
-- 🌱 Currently learning：`Pytorch, Langchain, Golang, Android, SpringBoot`
-- 💬 Reach me via：`caoye6233@gmail.com`
-- 💬 Personal Motto：*Keep coding, keep growing. We all have a bright future.*
+My previous experience spans embedded systems, mobile applications, and web/backend development. I am currently shifting my focus toward deep learning, with particular interests in large language models, recommender systems, and generative models.
 
+I hope to pursue graduate study in artificial intelligence and develop the ability to conduct rigorous, reproducible research.
 
+## About Me
 
-### 🛠 Tech Stack
+- 🎓 Computer Science undergraduate, enrolled in 2023
+- 🔭 Interested in AI research and intelligent software systems
+- 🌱 Currently strengthening my foundations in deep learning and PyTorch
+- 📫 Reach me at: `caoye6233@gmail.com`
 
-#### 💻 Programming Languages
-![C](https://img.shields.io/badge/-C-05122A?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## Research Interests
 
-#### 🧩 Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+- Large Language Models and their applications
+- Deep Learning for Recommender Systems
+- Generative Models, especially Diffusion Models
+- AI Engineering and Model Deployment
 
----
+## Current Focus
 
-### 🌈 Currently Exploring
-- 💻 **Backend Development with Golang** and System Architecture  
-- 🧠 **Deep Learning and PyTorch Framework Applications**
-- 🌐 **Full-Stack Development with Vue and Spring Boot**
-- ⚙️ **IoT and Embedded Systems Development**
+- Building a solid foundation in machine learning and deep learning
+- Understanding how large language models are trained, adapted, evaluated, and applied
+- Exploring deep learning methods for recommendation and generative modeling
+- Improving my ability to read papers and conduct reproducible experiments
+
+## Technical Background
+
+- **AI & Machine Learning:** Python, PyTorch, Deep Learning
+- **Software Development:** Go, Java, JavaScript, Spring Boot, Vue.js, MySQL
+- **Systems & Embedded:** C/C++, STM32, Linux, Android
+- **Development Tools:** Git
 
 ---
+
+> *Keep coding, keep growing. We all have a bright future.*
+
+
 <!--
 ### 📊 GitHub Stats
 <p align="left">
