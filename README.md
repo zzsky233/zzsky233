@@ -1,31 +1,48 @@
-# Hi I'm ZZSKY 👋
+<h1 align="center">Hi, I'm ZZSKY 👋</h1>
 
-> Computer Science undergraduate at Hunan University of Science and Technology, with a growing focus on artificial intelligence research and development.
+<p align="center">
+  <strong>Computer Science Undergraduate @ Hunan University of Science and Technology</strong>
+</p>
 
-My previous experience spans embedded systems, mobile applications, and web/backend development. I am currently shifting my focus toward deep learning, with particular interests in large language models, recommender systems, and generative models.
+<p align="center">
+  Large Language Models &nbsp;·&nbsp; Recommender Systems &nbsp;·&nbsp; Generative AI
+</p>
 
-I hope to pursue graduate study in artificial intelligence and develop the ability to conduct rigorous, reproducible research.
+<p align="center">
+  <a href="mailto:caoye6233@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 
 ## About Me
 
-- 🎓 Computer Science undergraduate, enrolled in 2023
+I am a Computer Science undergraduate at Hunan University of Science and Technology, expected to graduate in 2027.
+
+My previous experience spans embedded systems, mobile applications, and web/backend development. I am now shifting my focus toward deep learning and artificial intelligence, with particular interests in large language models, recommender systems, and generative models.
+
+My long-term goal is to pursue graduate study in artificial intelligence and develop the ability to conduct rigorous, reproducible research.
+
+- 🎓 B.Sc. in Computer Science, 2023–2027 (expected)
 - 🔭 Interested in AI research and intelligent software systems
 - 🌱 Currently strengthening my foundations in deep learning and PyTorch
-- 📫 Reach me at: `caoye6233@gmail.com`
+- 🤝 Open to learning, research discussions, and collaboration in AI
 
 ## Research Interests
 
-- Large Language Models and their applications
-- Deep Learning for Recommender Systems
-- Generative Models, especially Diffusion Models
-- AI Engineering and Model Deployment
+- **Large Language Models:** fine-tuning, adaptation, evaluation, and applications
+- **Recommender Systems:** deep learning-based and LLM-enhanced recommendation
+- **Generative Models:** diffusion models and their applications in recommender system
+- **AI Engineering:** integrating and deploying intelligent systems
 
-## Current Focus
+## Currently
 
 - Building a solid foundation in machine learning and deep learning
-- Understanding how large language models are trained, adapted, evaluated, and applied
-- Exploring deep learning methods for recommendation and generative modeling
-- Improving my ability to read papers and conduct reproducible experiments
+- Studying the principles and practical workflows behind modern LLMs
+- Exploring the intersection of large language models and recommender systems
+- Learning generative modeling methods, especially diffusion models
+- Improving my skills in paper reading, method reproduction, experiment design, and technical documentation
 
 ## Technical Background
 
@@ -34,9 +51,16 @@ I hope to pursue graduate study in artificial intelligence and develop the abili
 - **Systems & Embedded:** C/C++, STM32, Linux, Android
 - **Development Tools:** Git
 
----
+## Contact
 
-> *Keep coding, keep growing. We all have a bright future.*
+- Email: [caoye6233@gmail.com](mailto:caoye6233@gmail.com)
+- GitHub: [@zzsky233](https://github.com/zzsky233)
+
+
+<p align="center">
+  <i>Keep coding, keep growing. We all have a bright future.</i>
+</p>
+
 
 
 <!--
