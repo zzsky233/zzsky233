@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a Computer Science undergraduate at Hunan University of Science and Technology, expected to graduate in 2027.
+I am a master's student in Computer Technology at UESTC (2027 intake). My interests include large language models, recommender systems, and generative modeling, particularly language models and diffusion models for recommendation.
 
 My previous experience spans embedded systems, mobile applications, and web/backend development. I am now shifting my focus toward deep learning and artificial intelligence, with particular interests in large language models, recommender systems, and generative models.
 
